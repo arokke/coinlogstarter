@@ -1,7 +1,13 @@
 <template>
-  <img alt="Vue logo" src="./assets/coinlog.png">
+<div class="container">
+   <img alt="Vue logo" src="./assets/coinlog.png" class="hugeicon">
   <br>
   <HelloWorld msg="Coinlog"/>
+</div>
+
+
+
+ 
 </template>
 
 <script>
@@ -26,5 +32,9 @@ export default {
 }
 .progress-bar {
     background-color: #4C566A !important;
+}
+.hugeicon{
+  width: 100px;
+  height: 100px;
 }
 </style>

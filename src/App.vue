@@ -1,5 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Vue logo" src="./assets/coinlog.png">
+  <br>
   <HelloWorld msg="Coinlog"/>
 </template>
 
@@ -20,7 +21,10 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #D8DEE9;
   margin-top: 60px;
+}
+.progress-bar {
+    background-color: #4C566A !important;
 }
 </style>

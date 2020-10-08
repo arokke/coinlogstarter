@@ -7,6 +7,19 @@
 
     <div class="container">
       <!-- Content here -->
+      <div class="progress">
+        <div
+          class="progress-bar"
+          role="progressbar"
+          style="width: 100%"
+          aria-valuenow="100"
+          aria-valuemin="0"
+          aria-valuemax="100"
+        >
+          Domain name acquired
+        </div>
+      </div>
+      <br />
             <div class="progress">
         <div
           class="progress-bar"

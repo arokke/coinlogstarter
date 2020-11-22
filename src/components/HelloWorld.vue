@@ -37,12 +37,12 @@
         <div
           class="progress-bar"
           role="progressbar"
-          style="width: 95%"
-          aria-valuenow="95"
+          style="width: 100%"
+          aria-valuenow="100"
           aria-valuemin="0"
           aria-valuemax="100"
         >
-          Back-end 95%
+          Back-end Completed
         </div>
       </div>
       <br />

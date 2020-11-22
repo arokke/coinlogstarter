@@ -16,7 +16,7 @@
           aria-valuemin="0"
           aria-valuemax="100"
         >
-          Domain name acquired
+          Domain name acquired!
         </div>
       </div>
       <br />
@@ -29,7 +29,7 @@
           aria-valuemin="0"
           aria-valuemax="100"
         >
-          Data model Completed
+          Data model Completed!
         </div>
       </div>
       <br />
@@ -42,7 +42,7 @@
           aria-valuemin="0"
           aria-valuemax="100"
         >
-          Back-end Completed
+          Back-end Completed!
         </div>
       </div>
       <br />

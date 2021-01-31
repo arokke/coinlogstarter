@@ -50,24 +50,27 @@
         <div
           class="progress-bar"
           role="progressbar"
-          style="width: 40%"
-          aria-valuenow="40"
+          style="width: 60%"
+          aria-valuenow="60"
           aria-valuemin="0"
           aria-valuemax="100"
         >
-          Front-end 40%
+          Front-end 60%
         </div>
       </div>
     </div>
+    <br>
+    <br>
+    <div class="container">
+   <img alt="a screenshot" src="../assets/capture.png">
+  <br>
+</div>
   </div>
 </template>
 
 <script>
 export default {
   name: "HelloWorld",
-  props: {
-    msg: String,
-  },
 };
 </script>
 
